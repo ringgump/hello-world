@@ -1,3 +1,3 @@
 # hello-world
-hello world/n;
-greed is good;
+hello world and 
+greed is good
